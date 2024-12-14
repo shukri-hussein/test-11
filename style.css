@@ -1,0 +1,217 @@
+.header{
+    display: flex;
+    justify-content: center;
+
+}
+
+.contanier{
+    display: flex;
+    width: 380px;
+    /* margin-right: 800px; */
+    color: orangered;
+    gap: 10px;
+    font-size: 3em;
+    /* margin-top: 30px; */
+
+}
+
+.contanier h4 {
+    margin-top: -3px;
+}
+.con1 ul{
+    
+    display: flex;
+    gap: 15px;
+    list-style: none;
+    margin-right: 20px;  
+}
+
+.con1{
+    width: 700px;
+}
+
+.con1 li{
+    list-style: none;
+
+}
+.botom{
+    display: flex;
+    /* margin-right: 60px; */
+    height: 40px;
+    /* margin-top: 50px; */
+}
+
+.botom h5{
+    margin-top: 5px;
+    /* margin-left: 40px; */
+    width: 110px;
+    padding: 10px;color: blue;
+    top: -10px;
+
+    /* margin-right: -5px ; */
+}
+
+h5{
+    font-size: 13px;
+    /* margin-top: 20px; */
+}
+
+.BTN-1{
+    margin-right: 20px;
+    width: 100px;
+    background-color: blue;
+    color: white;
+    border: none;
+    box-shadow: 5px 5px 10px;
+    border-radius: 10px;
+    
+}
+
+.BTN-2{
+    margin-right: 20px;
+    width: 100px;
+    color: blue;
+    background-color: transparent;
+    border: 10px;
+    box-shadow: 5px 5px 10px;
+    border-radius: 10px;   
+}
+.boton{
+    margin-left: 20px;
+}
+
+.kafia{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.con2{
+    width: 400px;
+}
+
+.con2 p{
+    color: rgb(243, 164, 66);
+}
+
+
+.con2 h6{
+    color: rgb(243, 164, 66);
+    font-size: 17px;
+}
+.con2 h5{
+    color: blue;
+    font-size: 17px;
+}
+
+
+
+
+.btn1{
+    margin-right: 20px;
+    width: 100px;
+    background-color: blue;
+    color: black;
+    border: none;
+    box-shadow: 5px 5px 10px;
+    border-radius: 10px;
+    margin-top: 25px;
+    padding: 16px 13px;
+    cursor: pointer;
+}
+
+.btn2{
+    background-color: transparent;
+    color: black; 
+    font-size: 1em;
+    border: 2px solid blue;
+    border-radius: 10px;
+    margin-top: 25px;
+    padding: 14px 14px;
+    cursor: pointer;
+}
+
+.images img{
+    width: 400px;
+    height: 350px;
+    border-radius: 50px;
+    
+}
+
+.shaku{
+    text-align: center;
+}
+
+.shaku1{
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    margin-bottom: 20px;  
+} 
+
+.one {
+    display: flex;
+}
+
+.two{
+    display: flex;
+}
+
+.three{
+    display: flex;
+}
+
+.four{
+    display: flex;
+}
+
+
+h2{
+    font-size: 1.4em;
+    color: blue;
+    margin-top: -18px;
+}
+
+
+h3{
+    margin-left: -47px;
+    gap: 10px;
+}
+
+.one h3{
+    margin-right: 30px;
+}
+
+.one i{
+    color: blue;
+    margin-top: -20px;
+    font-size: 2em;
+}
+
+.two i{
+    color: blue;
+    margin-top: -16px;
+    margin-right: 10px;
+    font-size: 2em;
+
+
+}
+
+.three i{
+    font-size: 20px;
+    color: blue;
+    margin-top: -16px;
+    margin-right: 15px;
+    font-size: 2em;
+}
+ 
+
+.four i{
+    color: blue;
+    margin-top: -16px;
+    margin-left: 30px;
+    font-size: 2em;
+
+
+}
+
